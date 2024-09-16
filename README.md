@@ -1,8 +1,6 @@
-# Ad - Hoc Insights
-This repo showcases the SQL challenge for Atliq Hardwares, addressing 10 ad-hoc requests with SQL queries and a presentation to deliver insights for executive management
+# Atliq Hardwares Data Analysis
 
-## Atliq Hardwares Data Analysis
-### Probelem statement 
+## Probelem statement 
 
 #### Domain:  Consumer Goods | Function: Executive Management
 
