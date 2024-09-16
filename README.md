@@ -10,7 +10,8 @@ Atliq Hardwares (imaginary company) is one of the leading computer hardware prod
 
 However, the management noticed that they do not get enough insights to make quick and smart data-informed decisions. They want to expand their data analytics team by adding several junior data analysts. Tony Sharma, their data analytics director wanted to hire someone who is good at both tech and soft skills. Hence, he decided to conduct a SQL challenge which will help him understand both the skills.
 
-## Video Presentation : [Click to view link](https://www.linkedin.com/posts/pampana-gopikrishna12_dataanalytics-sql-powerbi-activity-7228958636088160256-5iWR?utm_source=share&utm_medium=member_desktop)
+## Video Presentation : [Click Here](https://www.linkedin.com/posts/pampana-gopikrishna12_dataanalytics-sql-powerbi-activity-7228958636088160256-5iWR?utm_source=share&utm_medium=member_desktop)
+
 ## Overview
 
 This repository contains the work completed for the SQL challenge conducted by Atliq Hardwares. The challenge involved generating insights from a set of 10 ad-hoc requests using SQL queries, with the aim of helping the top-level management make informed decisions. The project demonstrates both technical skills in SQL and the ability to effectively communicate insights through a presentation.
