@@ -1,4 +1,4 @@
-# Atliq Hardwares Data Analysis
+# Consumer Goods AD - HOC Insights
 
 ## Probelem statement 
 
